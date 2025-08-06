@@ -95,6 +95,7 @@ plot(t,s);
 
 
 Output Waveform
+<img width="1918" height="1198" alt="amplitude modulation wave forms" src="https://github.com/user-attachments/assets/34be8b14-3cd7-4d11-8980-5f5651fded7d" />
 
 
 
