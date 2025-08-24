@@ -103,7 +103,7 @@ Output Waveform
 
 
 TABULATION:
-![tabulation ac](https://github.com/user-attachments/assets/ac86c28a-71f8-4ca3-9493-2f6203499ac1)
+
 
 
 
