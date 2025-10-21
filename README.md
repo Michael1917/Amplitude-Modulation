@@ -103,17 +103,20 @@ Output Waveform
 
 
 TABULATION:
-![tabulation amplitude mod](https://github.com/user-attachments/assets/26b67a16-add4-4f79-affc-4dd6d6de2058)
+<img width="1070" height="1599" alt="image" src="https://github.com/user-attachments/assets/70b1ea24-4fd7-4383-a23e-eb091e41bb2f" />
 
 
 
 
 
 
-Calculation
+
+Calculation:
+<img width="992" height="1600" alt="image" src="https://github.com/user-attachments/assets/f4907a81-c151-4286-b33e-e9290f829049" />
+
+
 1.	ma (Theory) = am/ac = 0.5
 2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.5
-![calculation amplitude mod](https://github.com/user-attachments/assets/e610f0b7-7fb9-457c-9fbb-a7cdab2973ea)
 
 
 MODEL GRAPH
